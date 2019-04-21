@@ -1,0 +1,3 @@
+# Image Viewer using GUI
+This is a Image viewer; it is designed in java programming language as a simple console application. In this project, we are going to show the slide show of the images.
+In this we are also going to show collage view of images, we can do text editing on images, we can  add GIF, borders, emoji to it. We can also save the slideshow and pictures after editing. This project is User friendly software. In this project the images of all file formats can be viewed. Normally, the photo viewers’ work especially in a particular version of windows but our project is java based and therefore could run in any version. In this project, we are going to show slide show with the help of swing library and GUI interface.
